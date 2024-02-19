@@ -50,7 +50,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCMEmMpLRImAQJHyiPRu6k3YF07QrsIaug',
+    //I've removed the apiKey, because of security reasons.
+    apiKey: 'REMOVED API KEY FOR SECURITY REASONS',
     appId: '1:569550821810:android:0b0f2b15ff414bedba6cab',
     messagingSenderId: '569550821810',
     projectId: 'lab5-f6aec',

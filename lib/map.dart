@@ -118,7 +118,7 @@ class _MapPageState extends State<MapPage> {
     PolylinePoints polylinePoints = PolylinePoints();
 
     PolylineResult result = await polylinePoints.getRouteBetweenCoordinates(
-      "AIzaSyCMEmMpLRImAQJHyiPRu6k3YF07QrsIaug",
+      "REMOVED API KEY FOR SECURITY REASONS",
       PointLatLng(_university!.latitude, _university!.longitude),
       PointLatLng(_currentP!.latitude, _currentP!.longitude),
       travelMode: TravelMode.driving,
