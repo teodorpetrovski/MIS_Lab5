@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569550821810",
+    "project_id": "lab5-f6aec",
+    "storage_bucket": "lab5-f6aec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569550821810:android:0b0f2b15ff414bedba6cab",
+        "android_client_info": {
+          "package_name": "mk.ukim.finki.lab5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMEmMpLRImAQJHyiPRu6k3YF07QrsIaug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
